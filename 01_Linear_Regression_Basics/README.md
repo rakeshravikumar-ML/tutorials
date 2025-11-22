@@ -20,7 +20,7 @@ In the notebook we:
 1. **Create synthetic data** where we *know* the true relationship  
    - Something like:  
      \[
-     y = 4x + 10 + \text{small noise}
+     y = 4x + 10 + {small noise}
      \]
 2. **Visualise the data** to see a clear upward trend  
 3. **Train a Linear Regression model** with scikit-learn  
